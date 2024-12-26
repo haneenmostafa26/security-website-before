@@ -1,0 +1,51 @@
+body {
+ background-color: whitesmoke;   
+}
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+.text-container {
+    margin-bottom: 20px;
+}    
+
+.card{
+    min-width: 300px;
+}
+
+
+.products{
+    overflow-x: auto;
+}
+
+.products::-webkit-scrollbar{
+    height: 0px;
+}
+
+.right,
+.left{
+    position: absolute;
+    top: 18%;
+}
+.right{
+    right: 10px;
+}
+.left{
+    left: 10px;
+}
+button{
+    margin-top: 200px;
+}
+
+.navbar {
+    background-color:  rgb(235, 170, 245); 
+   
+}
+.navbar-brand img {
+    height: 40px; 
+}
+.form-control {
+    border-radius: 0; 
+}
+
+

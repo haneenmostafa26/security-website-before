@@ -1,0 +1,85 @@
+.navbar {
+    background-color:  rgb(235, 170, 245); 
+}
+.navbar-brand img {
+    height: 40px; 
+}
+.form-control {
+    border-radius: 0; 
+}
+.hero-section {
+    position: relative;
+    padding: 50px 0;
+    text-align: left;
+    min-height : 100vh;
+    margin-top:150px ;
+}
+
+.hero-section h1 {
+    font-weight: bold;
+}
+
+.hero-section p {
+    margin-top: 10px;
+    font-size: 1.2rem;
+}
+
+.btn-custom {
+    background-color:  rgb(235, 170, 245);
+    color: whitesmoke;
+    border: none;
+    margin-top: 20px;
+    padding: 10px 20px;
+}
+
+.btn-custom:hover {
+    background-color:  rgb(235, 170, 245)
+}
+
+.green-circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    position: absolute;
+    z-index: -1;
+}
+
+.circle-1 {
+    top: 10%;
+    left: 10%;
+}
+
+.circle-2 {
+    top: 40%;
+    right: 30%;
+}
+
+.circle-3 {
+    top: 70%;
+    left: 30%;
+}
+
+
+
+.custom-footer {
+    background-color:  rgb(235, 170, 245);
+    color: whitesmoke;
+    padding: 20px 0;
+}
+.custom-footer a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+.custom-footer a:hover {
+    text-decoration: underline;
+}
+.social-icons i {
+    font-size: 24px;
+    margin: 0 10px;
+    color: whitesmoke;
+}
+
+
+
+
+
